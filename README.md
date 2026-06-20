@@ -79,9 +79,3 @@ Open your web browser and go to `http://localhost:8501` to access the ATS applic
 - **API Key Issues**: Verify that your Google API key is correctly set up in the `.env` file and that it has the necessary permissions.
 - **File Upload Errors**: Ensure the file is a valid PDF and properly formatted.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or issues, please contact Anubhav Raj at [anubhav0427@gmail.com](mailto:anubhav0427@gmail.com).
-
